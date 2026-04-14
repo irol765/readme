@@ -34,10 +34,6 @@ const stack \= {
 * 💬 **WeChat**: @irol765  
 * 📅 **Status**: 🟢 可接单 (Available for hire) / 🟡 忙碌 (Busy)
 
-### **📈 统计 (Stats)**
 
-\<p align="center"\>
+# ** "简单，是最终的复杂。" — 达芬奇
 
-\<i\>"简单，是最终的复杂。" — 达芬奇\</i\>
-
-\</p\>
