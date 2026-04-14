@@ -1,4 +1,4 @@
-# **🛠️ \JOhn的工作室 | 极简主义软件开发者**
+# **🛠️ JOhn的工作室 | 极简主义软件开发者**
 
 **"Code for Efficiency, Design for Utility."**
 
