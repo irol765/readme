@@ -35,5 +35,5 @@ const stack \= {
 * 📅 **Status**: 🟢 可接单 (Available for hire) / 🟡 忙碌 (Busy)
 
 
-# ** "简单，是最终的复杂。" — 达芬奇
+# "简单，是最终的复杂。" — 达芬奇
 
