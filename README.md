@@ -30,8 +30,8 @@ const stack \= {
 
 ### **📬 联系我 (Get in Touch)**
 
-* 📧 **Email**: \[yourname@example.com\]  
-* 💬 **WeChat**: \[Your\_WeChat\_ID\]  
+* 📧 **Email**: irol765@gmail.com  
+* 💬 **WeChat**: @irol765  
 * 📅 **Status**: 🟢 可接单 (Available for hire) / 🟡 忙碌 (Busy)
 
 ### **📈 统计 (Stats)**
